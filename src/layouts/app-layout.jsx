@@ -11,7 +11,7 @@ function AppLayout() {
         <Outlet />
       </main>
       <div className="p-5 text-center bg-gray-800 mt-10">
-        Made with love by only_pramod
+        Made with love by only_pramod1
       </div>
     </div>
   );
